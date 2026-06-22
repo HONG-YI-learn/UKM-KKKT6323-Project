@@ -1,6 +1,5 @@
 # 🛡️ Smart Manufacturing Edge Gateway: Hybrid PQC MQTT Architecture
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Hardware](https://img.shields.io/badge/Hardware-STM32F407%20%7C%20ESP01S-orange)
 ![Protocol](https://img.shields.io/badge/Protocol-MQTT-green)
 ![Security](https://img.shields.io/badge/Security-ML_KEM%20%2B%20AES-red)
